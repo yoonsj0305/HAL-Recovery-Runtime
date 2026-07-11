@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .pytest_cache/
-artifacts/
-dist/
-build/
+/artifacts/
+/dist/
+/build/
 hal-recovery-runtime-v*.zip
 public_poc_dev_validation/
 release_contract_dev/

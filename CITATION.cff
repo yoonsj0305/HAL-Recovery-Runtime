@@ -6,5 +6,6 @@ version: 1.0.0
 date-released: 2026-07-11
 license: MIT
 authors:
-  - name: "HAL Recovery Runtime contributors"
+  - family-names: "Yoon"
+    given-names: "Seojun"
 abstract: "A simulation-only public proof of concept for review-gated dry-run recovery artifacts."

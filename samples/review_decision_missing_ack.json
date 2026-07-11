@@ -1,0 +1,21 @@
+{
+  "runtime_version": "1.0.0",
+  "review_gate_version": "1.0.0",
+  "review_semantics_version": "1.0.0",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified",
+  "profile_id": "SHADOW_VALID_001",
+  "reviewer_id": "TEST_REVIEWER",
+  "review_timestamp": "2026-07-11T00:00:00Z",
+  "human_review_approved": true,
+  "approved_for": "dry_run_only",
+  "acknowledged_limitations": {
+    "not_hardware_control": true,
+    "not_certification": true,
+    "candidate_quality_reviewed": true,
+    "conflicts_reviewed": false,
+    "dry_run_only": true
+  },
+  "review_notes": "Missing conflict acknowledgement."
+}

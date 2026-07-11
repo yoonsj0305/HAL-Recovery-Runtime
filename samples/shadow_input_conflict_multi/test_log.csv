@@ -1,0 +1,7 @@
+profile_id,tile_id,role,observed_status,failure_type,measurement_name,measurement_value,pass_fail,timestamp
+SHADOW_CONFLICT_MULTI_001,CONFLICT_MULTI_00,compute_tile,pass,none,delay_ns,1.1,pass,2026-07-09T11:00:00Z
+SHADOW_CONFLICT_MULTI_001,CONFLICT_MULTI_00,compute_tile,fail,timing_violation,delay_ns,3.4,fail,2026-07-09T11:01:00Z
+SHADOW_CONFLICT_MULTI_001,CONFLICT_MULTI_01,compute_tile,pass,none,delay_ns,1.2,pass,2026-07-09T11:02:00Z
+SHADOW_CONFLICT_MULTI_001,CONFLICT_MULTI_01,memory_tile,pass,none,delay_ns,1.2,pass,2026-07-09T11:03:00Z
+SHADOW_CONFLICT_MULTI_001,CONFLICT_MULTI_02,routing_tile,pass,none,delay_ns,1.0,pass,2026-07-09T11:04:00Z
+SHADOW_CONFLICT_MULTI_001,CONFLICT_MULTI_02,routing_tile,pass,none,delay_ns,2.0,pass,2026-07-09T11:05:00Z

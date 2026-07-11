@@ -1,0 +1,10 @@
+{
+  "runtime_version": "1.0.0",
+  "evidence_bundle_version": "1.0.0",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified",
+  "bundle_id": "EVIDENCE_BUNDLE_001",
+  "artifact_count": 0,
+  "artifacts": []
+}

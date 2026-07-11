@@ -1,0 +1,11 @@
+{
+  "policy_config_id": "POLICY_UNSAFE_REAL",
+  "policy_mode": "conservative_default",
+  "human_review_required": true,
+  "allow_retry": false,
+  "allow_real_execution": true,
+  "allow_hardware_control": false,
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified"
+}

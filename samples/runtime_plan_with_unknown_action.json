@@ -1,0 +1,20 @@
+{
+  "runtime_version": "1.0.0",
+  "profile_id": "CHIP_UNKNOWN_ACTION_001",
+  "execution_mode": "dry_run",
+  "hardware_control_enabled": false,
+  "human_review_required": true,
+  "claim_boundary": "simulation_only_not_certified",
+  "plan_status": "planned",
+  "plan_block_reasons": [],
+  "actions": [
+    {
+      "action_id": "ACT_001",
+      "action_type": "rebalance_cluster",
+      "workload_id": "WL_SC_01",
+      "role": "sensor_tile",
+      "status": "planned"
+    }
+  ],
+  "blocked_actions": []
+}

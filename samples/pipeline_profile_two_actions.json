@@ -1,0 +1,37 @@
+{
+  "profile_id": "CHIP_PIPELINE_002",
+  "hardware_control_enabled": false,
+  "human_review_required": true,
+  "claim_boundary": "simulation_only_not_certified",
+  "voltage_policy": "no_hardware_control",
+  "runtime_loader_hint": "simulation_only",
+  "allowed_roles": ["sensor_tile", "routing_tile", "memory_tile"],
+  "blocked_roles": ["timing_control", "voltage_control", "firmware_flash"],
+  "assigned_workloads": [
+    {
+      "workload_id": "WL_PIPE_001",
+      "role": "sensor_tile",
+      "target_tiles": ["T_1_0"]
+    },
+    {
+      "workload_id": "WL_PIPE_002",
+      "role": "routing_tile",
+      "target_tiles": ["T_2_0"]
+    }
+  ],
+  "unassigned_workloads": [],
+  "preferred_routes": [
+    {
+      "route_id": "ROUTE_WL_PIPE_001",
+      "workload_id": "WL_PIPE_001",
+      "target_tiles": ["T_1_0"],
+      "route_status": "candidate_simulated"
+    },
+    {
+      "route_id": "ROUTE_WL_PIPE_002",
+      "workload_id": "WL_PIPE_002",
+      "target_tiles": ["T_2_0"],
+      "route_status": "candidate_simulated"
+    }
+  ]
+}

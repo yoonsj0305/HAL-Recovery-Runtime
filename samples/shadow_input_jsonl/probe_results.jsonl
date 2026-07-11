@@ -1,0 +1,2 @@
+{"profile_id":"SHADOW_JSONL_001","tile_id":"JSONL_TILE_00","role":"compute_tile","observed_status":"pass","pass_fail":"pass"}
+{"profile_id":"SHADOW_JSONL_001","tile_id":"JSONL_TILE_01","role":"memory_tile","observed_status":"fail","failure_type":"leakage_high","pass_fail":"fail"}

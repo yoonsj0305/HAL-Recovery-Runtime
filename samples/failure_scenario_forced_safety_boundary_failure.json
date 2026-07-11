@@ -1,0 +1,8 @@
+{
+  "scenario_id": "SCN_FORCED_SAFETY_001",
+  "failure_mode": "forced_safety_boundary_failure",
+  "injection_stage": "adapter_safety_boundary",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified"
+}

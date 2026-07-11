@@ -1,0 +1,19 @@
+{
+  "runtime_version": "1.0.0",
+  "profile_id": "CHIP_ROLE_MISSING_001",
+  "execution_mode": "dry_run",
+  "hardware_control_enabled": false,
+  "human_review_required": true,
+  "claim_boundary": "simulation_only_not_certified",
+  "plan_status": "planned",
+  "plan_block_reasons": [],
+  "actions": [
+    {
+      "action_id": "ACT_ROLE_MISSING",
+      "action_type": "assign_workload",
+      "workload_id": "WL_ROLE_MISSING",
+      "status": "planned"
+    }
+  ],
+  "blocked_actions": []
+}

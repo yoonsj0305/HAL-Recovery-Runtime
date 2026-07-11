@@ -1,0 +1,5 @@
+tile_id,observed_status,role
+LOW_COVERAGE_TILE_00,pass,compute_tile
+LOW_COVERAGE_TILE_01,fail,memory_tile
+LOW_COVERAGE_TILE_02,unknown,
+LOW_COVERAGE_TILE_03,pass,

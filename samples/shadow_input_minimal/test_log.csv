@@ -1,0 +1,3 @@
+tile_id,observed_status,role
+MIN_TILE_00,pass,compute_tile
+MIN_TILE_01,unknown,unknown

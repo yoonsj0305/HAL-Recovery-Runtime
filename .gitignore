@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+artifacts/
+dist/
+build/
+hal-recovery-runtime-v*.zip
+public_poc_dev_validation/
+release_contract_dev/
+release_validation_v*/
+repro_v*/
+zip_verify_v*/
+poc_zip_validation/

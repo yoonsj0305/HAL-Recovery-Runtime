@@ -1,0 +1,4 @@
+profile_id,die_id,wafer_id,lot_id,tile_id,x,y,role,observed_status,failure_type,measurement_name,measurement_value,measurement_unit,threshold_min,threshold_max,pass_fail,timestamp
+SHADOW_VALID_001,DIE_A,WAFER_42,LOT_9,TILE_00,0,0,compute_tile,pass,none,frequency_margin,1.20,ratio,1.00,1.50,pass,2026-07-09T09:00:00Z
+SHADOW_VALID_001,DIE_A,WAFER_42,LOT_9,TILE_01,1,0,memory_tile,fail,timing_violation,setup_margin,0.40,ratio,0.80,1.50,fail,2026-07-09T09:01:00Z
+SHADOW_VALID_001,DIE_A,WAFER_42,LOT_9,TILE_02,2,0,sensor_tile,degraded,intermittent,noise_margin,0.70,ratio,0.75,1.50,unknown,2026-07-09T09:02:00Z

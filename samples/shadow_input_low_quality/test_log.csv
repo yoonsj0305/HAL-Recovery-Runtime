@@ -1,0 +1,4 @@
+profile_id,tile_id,role,observed_status
+SHADOW_LOW_QUALITY_001,,compute_tile,pass
+SHADOW_LOW_QUALITY_001,LOW_TILE_01,,unknown
+SHADOW_LOW_QUALITY_001,LOW_TILE_02,memory_tile,unknown

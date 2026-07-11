@@ -1,0 +1,2 @@
+tile_id,role,observed_status,pass_fail
+MISSING_PROFILE_TILE_00,compute_tile,pass,pass

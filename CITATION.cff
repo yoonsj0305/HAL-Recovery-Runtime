@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this public proof of concept, please cite the software."
+title: "HAL Recovery Runtime"
+type: software
+version: 1.0.0
+date-released: 2026-07-11
+license: MIT
+authors:
+  - name: "HAL Recovery Runtime contributors"
+abstract: "A simulation-only public proof of concept for review-gated dry-run recovery artifacts."

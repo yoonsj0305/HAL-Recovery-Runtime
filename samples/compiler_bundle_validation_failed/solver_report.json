@@ -1,0 +1,7 @@
+{
+  "profile_id": "CHIP_001",
+  "solver_status": "solved",
+  "assigned_workloads": 1,
+  "unassigned_workloads": 0,
+  "claim_boundary": "simulation_only_not_certified"
+}

@@ -1,0 +1,17 @@
+{
+  "observations": [
+    {
+      "profile_id": "SHADOW_VALID_001",
+      "die_id": "DIE_A",
+      "wafer_id": "WAFER_42",
+      "lot_id": "LOT_9",
+      "tile_id": "TILE_03",
+      "x": 3,
+      "y": 0,
+      "role": "routing_tile",
+      "observed_status": "pass",
+      "failure_type": "none",
+      "timestamp": "2026-07-09T09:03:00Z"
+    }
+  ]
+}

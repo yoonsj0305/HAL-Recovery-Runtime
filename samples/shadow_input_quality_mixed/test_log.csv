@@ -1,0 +1,5 @@
+profile_id,die_id,wafer_id,lot_id,tile_id,x,y,role,observed_status,failure_type,measurement_name,measurement_value,measurement_unit,threshold_min,threshold_max,pass_fail,timestamp
+SHADOW_QUALITY_MIXED_001,DIE_M,WAFER_M,LOT_M,MIXED_TILE_HIGH,0,0,compute_tile,pass,none,delay_ns,1.2,ns,0.0,2.0,pass,2026-07-09T10:00:00Z
+SHADOW_QUALITY_MIXED_001,DIE_M,WAFER_M,LOT_M,MIXED_TILE_MEDIUM,1,0,memory_tile,pass,none,,,,,,pass,2026-07-09T10:01:00Z
+SHADOW_QUALITY_MIXED_001,DIE_M,WAFER_M,LOT_M,MIXED_TILE_LOW,2,0,routing_tile,degraded,intermittent,,,,,,unknown,2026-07-09T10:02:00Z
+SHADOW_QUALITY_MIXED_001,DIE_M,WAFER_M,LOT_M,,3,0,unknown,unknown,unknown,,,,,,unknown,

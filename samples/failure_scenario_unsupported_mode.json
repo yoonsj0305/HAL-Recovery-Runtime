@@ -1,0 +1,8 @@
+{
+  "scenario_id": "SCN_UNSUPPORTED_001",
+  "failure_mode": "unsupported_failure_mode",
+  "injection_stage": "adapter_simulation",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified"
+}

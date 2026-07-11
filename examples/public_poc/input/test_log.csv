@@ -1,0 +1,5 @@
+profile_id,die_id,wafer_id,lot_id,tile_id,x,y,role,observed_status,failure_type,measurement_name,measurement_value,measurement_unit,threshold_min,threshold_max,pass_fail,timestamp
+PUBLIC_POC_PROFILE_001,SYNTHETIC_DIE,SYNTHETIC_WAFER,SYNTHETIC_LOT,POC_TILE_00,0,0,compute_tile,pass,none,frequency_margin,1.20,ratio,1.00,1.50,pass,2026-07-11T01:00:00Z
+PUBLIC_POC_PROFILE_001,SYNTHETIC_DIE,SYNTHETIC_WAFER,SYNTHETIC_LOT,POC_TILE_01,1,0,memory_tile,fail,timing_violation,setup_margin,0.40,ratio,0.80,1.50,fail,2026-07-11T01:01:00Z
+PUBLIC_POC_PROFILE_001,SYNTHETIC_DIE,SYNTHETIC_WAFER,SYNTHETIC_LOT,POC_TILE_02,2,0,sensor_tile,degraded,intermittent,noise_margin,0.70,ratio,0.75,1.50,unknown,2026-07-11T01:02:00Z
+PUBLIC_POC_PROFILE_001,SYNTHETIC_DIE,SYNTHETIC_WAFER,SYNTHETIC_LOT,POC_TILE_03,3,0,routing_tile,pass,none,route_margin,1.10,ratio,0.90,1.50,pass,2026-07-11T01:03:00Z

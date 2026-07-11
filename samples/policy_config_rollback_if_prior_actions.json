@@ -1,0 +1,11 @@
+{
+  "policy_config_id": "POLICY_ROLLBACK_001",
+  "policy_mode": "rollback_if_prior_actions",
+  "human_review_required": true,
+  "allow_retry": false,
+  "allow_real_execution": false,
+  "allow_hardware_control": false,
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified"
+}

@@ -1,0 +1,21 @@
+{
+  "project": "HAL Recovery Runtime",
+  "version": "1.0.0",
+  "release_type": "public_poc",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified",
+  "entrypoint": "hal-rr",
+  "manual_review_required": true,
+  "promotion_scope": "dry_run_only",
+  "primary_workflow_document": "docs/PUBLIC_POC_WORKFLOW.md",
+  "security_document": "SECURITY.md",
+  "limitations_document": "docs/LIMITATIONS.md",
+  "artifact_contract_document": "docs/ARTIFACT_CONTRACT.md",
+  "known_limitations": [
+    "not_hardware_control",
+    "not_certification",
+    "not_production_ready",
+    "local_file_inputs_only"
+  ]
+}

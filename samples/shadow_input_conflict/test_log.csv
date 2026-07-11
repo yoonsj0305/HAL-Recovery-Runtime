@@ -1,0 +1,3 @@
+profile_id,tile_id,role,observed_status,pass_fail
+SHADOW_CONFLICT_001,CONFLICT_TILE_00,compute_tile,pass,pass
+SHADOW_CONFLICT_001,CONFLICT_TILE_00,compute_tile,fail,fail

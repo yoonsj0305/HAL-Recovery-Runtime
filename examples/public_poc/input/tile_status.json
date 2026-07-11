@@ -1,0 +1,17 @@
+{
+  "observations": [
+    {
+      "profile_id": "PUBLIC_POC_PROFILE_001",
+      "die_id": "SYNTHETIC_DIE",
+      "wafer_id": "SYNTHETIC_WAFER",
+      "lot_id": "SYNTHETIC_LOT",
+      "tile_id": "POC_TILE_03",
+      "x": 3,
+      "y": 0,
+      "role": "routing_tile",
+      "observed_status": "fail",
+      "failure_type": "synthetic_conflict",
+      "timestamp": "2026-07-11T01:04:00Z"
+    }
+  ]
+}

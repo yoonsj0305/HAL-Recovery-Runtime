@@ -1,0 +1,11 @@
+{
+  "scenario_id": "SCN_PARTIAL_FAILURE_001",
+  "failure_mode": "partial_plan_failure",
+  "target_action_id": "ACT_002",
+  "target_adapter_id": "mock_routing_tile_adapter",
+  "injection_stage": "adapter_simulation",
+  "expected_runtime_behavior": "rollback_simulation_only",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified"
+}

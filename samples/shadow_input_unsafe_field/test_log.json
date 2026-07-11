@@ -1,0 +1,8 @@
+{
+  "profile_id": "SHADOW_UNSAFE_001",
+  "tile_id": "UNSAFE_TILE_00",
+  "role": "compute_tile",
+  "observed_status": "pass",
+  "hardware_control_enabled": true,
+  "real_execution_allowed": true
+}

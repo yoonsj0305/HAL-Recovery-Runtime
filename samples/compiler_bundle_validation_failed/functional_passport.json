@@ -1,0 +1,6 @@
+{
+  "profile_id": "CHIP_001",
+  "passport_status": "ready",
+  "decision_readiness": "ready",
+  "claim_boundary": "simulation_only_not_certified"
+}

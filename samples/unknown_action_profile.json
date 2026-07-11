@@ -1,0 +1,21 @@
+{
+  "profile_id": "CHIP_UNKNOWN_ACTION_001",
+  "hardware_control_enabled": false,
+  "human_review_required": true,
+  "claim_boundary": "simulation_only_not_certified",
+  "voltage_policy": "no_hardware_control",
+  "runtime_loader_hint": "simulation_only",
+  "allowed_roles": ["sensor_tile"],
+  "blocked_roles": ["timing_control", "voltage_control", "firmware_flash"],
+  "assigned_workloads": [
+    {"workload_id": "WL_SC_01", "role": "sensor_tile", "target_tiles": ["T_1_0"]}
+  ],
+  "unassigned_workloads": [],
+  "preferred_routes": [
+    {"route_id": "ROUTE_WL_SC_01", "workload_id": "WL_SC_01", "target_tiles": ["T_1_0"], "route_status": "candidate_simulated"}
+  ],
+  "requested_actions": [
+    {"action_type": "rebalance_cluster", "workload_id": "WL_SC_01"}
+  ]
+}
+

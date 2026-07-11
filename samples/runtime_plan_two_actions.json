@@ -1,0 +1,15 @@
+{
+  "runtime_version": "1.0.0",
+  "profile_id": "CHIP_002",
+  "execution_mode": "dry_run",
+  "hardware_control_enabled": false,
+  "human_review_required": true,
+  "claim_boundary": "simulation_only_not_certified",
+  "plan_status": "planned",
+  "plan_block_reasons": [],
+  "actions": [
+    {"action_id": "ACT_001", "action_type": "assign_workload", "workload_id": "WL_001", "role": "sensor_tile", "status": "planned"},
+    {"action_id": "ACT_002", "action_type": "assign_workload", "workload_id": "WL_002", "role": "routing_tile", "status": "planned"}
+  ],
+  "blocked_actions": []
+}

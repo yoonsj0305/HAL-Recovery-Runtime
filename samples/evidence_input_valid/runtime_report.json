@@ -1,0 +1,8 @@
+{
+  "runtime_version": "1.0.0",
+  "profile_id": "CHIP_001",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified",
+  "runtime_status": "dry_run_passed"
+}

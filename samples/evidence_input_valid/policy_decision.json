@@ -1,0 +1,13 @@
+{
+  "runtime_version": "1.0.0",
+  "policy_simulation_version": "1.0.0",
+  "policy_audit_version": "1.0.0",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified",
+  "selected_policy": "human_review_required",
+  "policy_status": "policy_requires_human_review",
+  "retry_allowed": false,
+  "real_execution_allowed": false,
+  "hardware_control_allowed": false
+}

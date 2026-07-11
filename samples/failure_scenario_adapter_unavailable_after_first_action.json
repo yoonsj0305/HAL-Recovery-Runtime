@@ -1,0 +1,9 @@
+{
+  "scenario_id": "SCN_ADAPTER_UNAVAILABLE_AFTER_FIRST_001",
+  "failure_mode": "adapter_unavailable",
+  "target_action_id": "ACT_002",
+  "injection_stage": "adapter_simulation",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified"
+}

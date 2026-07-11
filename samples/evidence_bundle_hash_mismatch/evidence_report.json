@@ -1,0 +1,13 @@
+{
+  "runtime_version": "1.0.0",
+  "evidence_bundle_version": "1.0.0",
+  "evidence_validation_semantics_version": "1.0.0",
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified",
+  "evidence_validation_passed": true,
+  "evidence_validation_status": "valid_evidence_bundle",
+  "evidence_validation_reasons": ["evidence_bundle_valid"],
+  "evidence_warning_reasons": [],
+  "consistency_warnings": []
+}

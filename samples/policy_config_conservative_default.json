@@ -1,0 +1,13 @@
+{
+  "policy_config_id": "POLICY_DEFAULT_001",
+  "policy_mode": "conservative_default",
+  "human_review_required": true,
+  "allow_retry": false,
+  "allow_real_execution": false,
+  "allow_hardware_control": false,
+  "max_allowed_blocked_actions": 0,
+  "max_allowed_degraded_flags": 0,
+  "simulation_only": true,
+  "hardware_control_enabled": false,
+  "claim_boundary": "simulation_only_not_certified"
+}

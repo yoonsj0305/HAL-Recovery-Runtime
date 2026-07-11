@@ -1,0 +1,7 @@
+{
+  "profile_id": "CHIP_001",
+  "comparison_status": "passed",
+  "baseline_profile_id": "BASELINE_001",
+  "candidate_profile_id": "CHIP_001",
+  "warnings": []
+}

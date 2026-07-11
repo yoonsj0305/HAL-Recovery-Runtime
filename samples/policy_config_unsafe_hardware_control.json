@@ -1,0 +1,11 @@
+{
+  "policy_config_id": "POLICY_UNSAFE_HARDWARE",
+  "policy_mode": "conservative_default",
+  "human_review_required": true,
+  "allow_retry": false,
+  "allow_real_execution": false,
+  "allow_hardware_control": true,
+  "simulation_only": true,
+  "hardware_control_enabled": true,
+  "claim_boundary": "simulation_only_not_certified"
+}
